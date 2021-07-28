@@ -1,0 +1,16 @@
+Arrival:
+Jake	2019-08-06 15:50:37.163864
+Afam	2019-08-06 15:50:43.905694
+
+Present:
+Afam
+Jake
+
+Absent:
+Bipana
+Cameron
+Himel
+Jaturong
+Linh
+Pham
+Sunny
